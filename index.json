@@ -1,0 +1,15 @@
+{
+  "wordpress": {
+    "index": "wordpress.json",
+    "path": "wordpress",
+    "url": "https://raw.githubusercontent.com/tcattd/unrepress-index/main/wordpress/wordpress.json"
+  },
+  "plugins": {
+    "path": "plugins",
+    "url": "https://raw.githubusercontent.com/tcattd/unrepress-index/main/plugins/"
+  },
+  "themes": {
+    "path": "themes",
+    "url": "https://raw.githubusercontent.com/tcattd/unrepress-index/main/themes/"
+  }
+}

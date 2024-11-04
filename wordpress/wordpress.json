@@ -1,0 +1,21 @@
+{
+  "slug": "wordpress-core",
+  "name": "WordPress Core",
+  "type": "core",
+  "wp-meta": false,
+  "date_added": "2024-10-04",
+  "repository": "https://github.com/WordPress/WordPress/",
+  "tags": "https://api.github.com/repos/wordpress/wordpress/tags",
+  "releases": "https://api.github.com/repos/wordpress/wordpress/releases",
+  "readme_md": "https://api.github.com/repos/wordpress/wordpress/readme",
+  "readme_txt": "https://api.github.com/repos/wordpress/wordpress/readme.txt",
+  "changelog": "https://wordpress.org/changes/",
+  "description": "The WordPress Core.",
+  "homepage": "https://wordpress.org/",
+  "author": "WordPress",
+  "author_url": "https://wordpress.org/",
+  "free": true,
+  "paid_features": false,
+  "license": "GPL-2.0-or-later",
+  "license_url": "https://www.gnu.org/licenses/gpl-2.0.html"
+}

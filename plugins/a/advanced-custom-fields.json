@@ -1,0 +1,21 @@
+{
+  "slug": "advanced-custom-fields",
+  "name": "Advanced Custom Fields",
+  "type": "plugin",
+  "wp-meta": false,
+  "date_added": "2024-10-04",
+  "homepage": "https://www.advancedcustomfields.com/",
+  "repository": "https://github.com/advancedcustomfields/acf",
+  "tags": "https://api.github.com/repos/advancedcustomfields/acf/tags",
+  "releases": "https://api.github.com/repos/advancedcustomfields/acf/releases",
+  "readme_md": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/README.md",
+  "readme_txt": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/readme.txt",
+  "changelog": "https://www.advancedcustomfields.com/changelog/",
+  "description": "ACF helps customize WordPress with powerful, professional and intuitive fields. Proudly powering over 2 million sites, WordPress developers love ACF.",
+  "author": "Advanced Custom Fields",
+  "author_url": "https://www.advancedcustomfields.com/",
+  "free": true,
+  "paid_features": true,
+  "license": "GPL-2.0-or-later",
+  "license_url": "https://www.gnu.org/licenses/gpl-2.0.html"
+}
