@@ -12,7 +12,7 @@
   "sections": {
     "description": "ACF helps customize WordPress with powerful, professional and intuitive fields. Proudly powering over 2 million sites, WordPress developers love ACF.",
     "installation": "",
-    "changelog": ""
+    "changelog": "https://www.advancedcustomfields.com/changelog/"
   },
   "banners": {
     "low": "https://example.com/banner-772x250.jpg",
@@ -27,7 +27,7 @@
   "homepage": "https://www.advancedcustomfields.com/",
   "repository": "https://github.com/advancedcustomfields/acf",
   "tags": "https://api.github.com/repos/advancedcustomfields/acf/tags",
+  "update_from": "tags",
   "readme_md": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/README.md",
-  "readme_txt": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/readme.txt",
-  "changelog": "https://www.advancedcustomfields.com/changelog/"
+  "readme_txt": "https://raw.githubusercontent.com/AdvancedCustomFields/acf/master/readme.txt"
 }
